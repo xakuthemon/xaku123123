@@ -1,0 +1,5 @@
+{
+  "name": "FraudDetect 2.0",
+  "description": "An intelligent financial fraud detection system combining ML heuristics and rule-based engines with GenAI explainability.",
+  "requestFramePermissions": []
+}
